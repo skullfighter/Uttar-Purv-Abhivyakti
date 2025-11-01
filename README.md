@@ -94,16 +94,3 @@ Option 2: From branch (no workflow)
 - Branch: main, Folder: /(root)
 - Ensure index.html is at the repository root.
 
-Contributing
-- Content: Ensure facts are accurate and culturally respectful. Add citations where possible.
-- Accessibility: Prefer readable fonts, sufficient contrast, alt text for images, and keyboard-friendly navigation.
-- Localization: Consider future support for Hindi/Assamese/other regional languages.
-
-License
-- Add a LICENSE file (e.g., MIT) if you want others to reuse or contribute.
-
-Credits and acknowledgements
-- List sources for cultural information, images, and any third-party assets used.
-
-Questions or improvements?
-- Open an issue with your suggestion or bug.
